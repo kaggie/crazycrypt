@@ -1,0 +1,1 @@
+Text messages currently do not use encryption.  This program allows a person to encrypt and decrypt their text messages using information shared only offline.  By sharing a passcode in person, higher security can be implemented.
